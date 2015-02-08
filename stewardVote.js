@@ -36,7 +36,7 @@ mw.loader.using( [ 'mediawiki.util', 'jquery.ui.dialog', 'jquery.cookie', 'jquer
 				neutral : 'Neutral'
 			},
 			// To add a new translation create a page like https://meta.wikimedia.org/wiki/MediaWiki:StewardVote/en and add the new language to the var below
-			availableLangs: ['en', 'de', 'de-ch', 'de-at', 'de-formal',  'es', 'it', 'bn', 'pt', 'sr'],
+			availableLangs: ['en', 'de', 'de-ch', 'de-at', 'de-formal',  'el', 'es', 'fi', 'fr', 'it', 'bg', 'bn', 'pl', 'pt', 'ru', 'sr', 'tr', 'uk'],
 
 			// General config
 
